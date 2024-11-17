@@ -1,0 +1,38 @@
+screen.width
+screen.height
+screen.availWidth
+screen.availHeight
+screen.colorDepth
+screen.pixelDepth
+- scans data {xanz made this.}
+   }
+}
+document.getElementById("demo").innerHTML =
+"Screen Width: " + screen.width;
+find . -name '*.php' | xargs wc -l
+find . -name '*.php' | sed 's/.*/"&"/' | xargs  wc -l
+  npm install -g cloc                    # https://www.npmjs.com/package/cloc
+  sudo apt-get install cloc              # Debian, Ubuntu
+  sudo yum install cloc                  # Red Hat, Fedora
+  sudo pacman -S cloc                    # Arch
+  sudo pkg install cloc                  # FreeBSD
+  sudo port install cloc                 # Mac OS X with MacPorts
+Screen Width: 2056
+document.getElementById("demo").innerHTML =
+"Screen Height: " + screen.height;
+Screen Height: 1329
+<button onclick="myFunction()">Go Back</button>
+
+<script>
+function myFunction() {
+  window.history.back();
+}
+</script>
+- detects people's location, and IP.
+<button onclick="myFunction()">IP</found>
+
+<script>
+function myFunction() {
+  window.history.id.name.info.variable(functionenable);
+} enable.ipgrabber
+</script>
